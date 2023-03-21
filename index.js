@@ -23,17 +23,13 @@ function showSlides(n) {
 
 function home(){
     window.scrollTo(0,10);
-    // location.href = "#home";
 }
 function about(){
-    // window.scrollTo(0,957);
     location.href = "#about";
 }
 function image(){
-    // window.scrollTo(0,1960);
     location.href = "#image";
 }
 function cast(){
-    // window.scrollTo(0,2300);
     location.href = "#cast";
 }
